@@ -1,0 +1,10 @@
+meter_id,locality,rules_triggered,triggered_rules,evidence,mean_consumption,anomaly_confidence,peer_direction
+IND-003,Indiranagar,0,none,No specific rule triggered,4.692853175347223,0.8356660156134721,unusually_high
+JAY-006,Jayanagar,1,sudden_drop,Consumption dropped to 13% of 7-day baseline for 5+ days,0.6086945394839459,0.6019710647687511,normal
+JAY-011,Jayanagar,0,none,No specific rule triggered,3.0525248854166667,0.6869807796857871,unusually_high
+MAL-007,Malleshwaram,0,none,No specific rule triggered,3.425405887152777,0.7263741099159662,unusually_high
+MAL-014,Malleshwaram,0,none,No specific rule triggered,0.8600172230384151,0.5233672396696599,normal
+RAJ-002,Rajajinagar,0,none,No specific rule triggered,0.7082552631262239,0.6859735355608774,unusually_low
+RAJ-018,Rajajinagar,0,none,No specific rule triggered,2.680767848835876,0.6035873086840862,unusually_high
+WHI-003,Whitefield,0,none,No specific rule triggered,1.6917795209967486,0.5444501285535147,unusually_low
+WHI-011,Whitefield,0,none,No specific rule triggered,3.717038787807775,0.8081158991315527,unusually_high

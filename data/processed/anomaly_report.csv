@@ -1,0 +1,180 @@
+meter_id,locality,rules_triggered,triggered_rules,evidence,mean_consumption,anomaly_confidence_x,peer_direction_x,anomaly_confidence_y,peer_direction_y,iso_normalized,peer_score,anomaly_type,final_confidence,inspection_priority,generated_at,explanation
+JAY-006,Jayanagar,1,sudden_drop,Consumption dropped to 13% of 7-day baseline for 5+ days,0.6086945394839459,0.6019710647687511,normal,0.6019710647687511,normal,0.783638004013699,0.3799336945804814,Electricity Theft (Bypass Suspected),0.6,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : JAY-006
+LOCALITY       : Jayanagar
+ANOMALY TYPE   : Electricity Theft (Bypass Suspected)
+CONFIDENCE     : 60%
+AVG CONSUMPTION: 0.6087 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Consumption dropped to 13% of 7-day baseline for 5+ days
+
+RECOMMENDATION:
+  → Physical meter inspection + site visit recommended
+  → Check for bypass wiring or meter cover tampering
+  → Compare meter readings with manual spot check
+======================================================="
+IND-003,Indiranagar,0,none,No specific rule triggered,4.692853175347223,0.8356660156134721,unusually_high,0.8356660156134721,unusually_high,0.8511064325428647,0.816794394921992,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : IND-003
+LOCALITY       : Indiranagar
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 4.6929 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+JAY-011,Jayanagar,0,none,No specific rule triggered,3.0525248854166667,0.6869807796857871,unusually_high,0.6869807796857871,unusually_high,0.6363141320583487,0.7489066823415449,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : JAY-011
+LOCALITY       : Jayanagar
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 3.0525 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+MAL-007,Malleshwaram,0,none,No specific rule triggered,3.425405887152777,0.7263741099159662,unusually_high,0.7263741099159662,unusually_high,0.685970579699591,0.7757562024026468,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : MAL-007
+LOCALITY       : Malleshwaram
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 3.4254 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+MAL-014,Malleshwaram,0,none,No specific rule triggered,0.8600172230384151,0.5233672396696599,normal,0.5233672396696599,normal,0.70488474373056,0.3015125124841152,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : MAL-014
+LOCALITY       : Malleshwaram
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 0.8600 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+RAJ-002,Rajajinagar,0,none,No specific rule triggered,0.7082552631262239,0.6859735355608774,unusually_low,0.6859735355608774,unusually_low,0.7292934283640633,0.6330269999125387,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : RAJ-002
+LOCALITY       : Rajajinagar
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 0.7083 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+RAJ-018,Rajajinagar,0,none,No specific rule triggered,2.680767848835876,0.6035873086840862,unusually_high,0.6035873086840862,unusually_high,0.7371524588590755,0.4403410140257657,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : RAJ-018
+LOCALITY       : Rajajinagar
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 2.6808 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+WHI-003,Whitefield,0,none,No specific rule triggered,1.6917795209967486,0.5444501285535147,unusually_low,0.5444501285535147,unusually_low,0.6580554495832573,0.4055991806282736,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : WHI-003
+LOCALITY       : Whitefield
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 1.6918 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
+WHI-011,Whitefield,0,none,No specific rule triggered,3.717038787807775,0.8081158991315527,unusually_high,0.8081158991315527,unusually_high,1.0,0.5735908869590057,Statistical Anomaly (ML Detected),0.5,P3 — Schedule Inspection This Week,2026-05-06 10:08:26,"=======================================================
+VIDYUTRAKSHAK AI — METER INSPECTION REPORT
+=======================================================
+METER ID       : WHI-011
+LOCALITY       : Whitefield
+ANOMALY TYPE   : Statistical Anomaly (ML Detected)
+CONFIDENCE     : 50%
+AVG CONSUMPTION: 3.7170 kWh per 15-min interval
+PRIORITY       : P3 — Schedule Inspection This Week
+GENERATED AT   : 2026-05-06 10:08:26
+
+EVIDENCE:
+  → Statistical deviation detected by ML model
+  → Anomaly confidence: 50%
+  → Peer deviation direction: unknown
+
+RECOMMENDATION:
+  → Monitor for next 7 days before escalation
+  → Compare with historical baseline for this meter
+======================================================="
